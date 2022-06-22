@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/myswitch/static/css/main.c89450ea.css",
+    "main.js": "/myswitch/static/js/main.2881409f.js",
+    "static/js/787.8c031d6c.chunk.js": "/myswitch/static/js/787.8c031d6c.chunk.js",
+    "index.html": "/myswitch/index.html",
+    "main.c89450ea.css.map": "/myswitch/static/css/main.c89450ea.css.map",
+    "main.2881409f.js.map": "/myswitch/static/js/main.2881409f.js.map",
+    "787.8c031d6c.chunk.js.map": "/myswitch/static/js/787.8c031d6c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c89450ea.css",
+    "static/js/main.2881409f.js"
+  ]
+}
